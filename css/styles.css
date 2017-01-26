@@ -1,4 +1,17 @@
-.sidebar {
-  width: 30%;
-  float: left;
+body {
+  font-family: sans-serif;
+}
+
+#welcomelist li {
+  list-style-type: none;
+  float: right;
+}
+
+img {
+  max-width: 100%;
+}
+
+.sidebar li {
+  list-style-type: none;
+
 }
